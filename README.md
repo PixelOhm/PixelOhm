@@ -23,6 +23,6 @@ Whether you're just starting out or looking to deepen your knowledge, there's so
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salkaro&layout=compact&theme=tokyonight)
 
-![Salkaro's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?username=salkaro&theme=tokyonight)
+![Salkaro's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=salkaro&theme=tokyonight)
 
 ---
